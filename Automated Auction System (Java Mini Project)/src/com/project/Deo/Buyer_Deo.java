@@ -1,5 +1,9 @@
 package com.project.Deo;
 
-public class Buyer_Deo {
+import com.project.beam.Buyer;
 
+public interface  Buyer_Deo {
+
+	public String registeredAsBuyer(Buyer buyer);
+	
 }
