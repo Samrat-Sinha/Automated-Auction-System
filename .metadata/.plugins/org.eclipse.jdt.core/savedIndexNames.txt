@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\smrts\OneDrive\Desktop\Mini Project -1\Automated-Auction-System\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1465826387.index
+607961877.index
+1135247013.index
